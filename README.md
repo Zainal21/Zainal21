@@ -9,8 +9,9 @@ I’m currently a Software Engineering student at VSH 2 Karanganyar, a Vocationa
 
 
  📚 Currently Learning:
-- Node JS environment
+- Node JS Environment
 - ExpressJS, Laravel, Golang for Backend Development
+- Microservice Architecture
 - VueJS, NuxtJS for Frontend Development
 - Design Pattern
 - SQL DATABASE & NoSQL DATABASE
