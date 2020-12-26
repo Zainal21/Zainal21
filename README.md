@@ -17,7 +17,6 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - Design Pattern
 - SQL DATABASE & NoSQL DATABASE
 - Unit Testing 
-- TypeScript (comming soon)
 
 🚀 How to reach me:
 - Web: [https://penulisdudukdev.xyz/](https://penulisdudukdev.xyz//)
