@@ -10,18 +10,21 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 
  📚 Currently Learning:
 - Node JS Environment
-- ExpressJS, Laravel, Golang for Backend Development
+- Competitive Programming
+- ExpressJS, Laravel, Backend Development
 - Microservice Architecture
 - VueJS, NuxtJS for Frontend Development
 - Design Pattern
 - SQL DATABASE & NoSQL DATABASE
 - Unit Testing 
+- TypeScript (comming soon)
 
 🚀 How to reach me:
-- Web: [Muhamad Zainal Arifin](https://muhamad-zainal-arifin.netlify.app/)
+- Web: [https://penulisdudukdev.xyz/](https://penulisdudukdev.xyz//)
 - Email: [contact@zainalarifin](mailto:zainalarifin080718@gmail.com)
 - LinkedIn: [Muhamad-Zainal-Arifin](https://www.linkedin.com/in/muhammad-zainal-arifin-3092a1198/)
-- Instagram: [@hanyazain_](https://instagram.com/hanyazain_)
+- Instagram: [@Zainal_256bit](https://instagram.com/Zainal_256bit)
 - Twitter: [@penulisduduk](https://twitter.com/Penulisduduk)
+- Gitlab: [@gitlab.com/Zainal21](https://twitter.com/Penulisduduk)
 
 ---
