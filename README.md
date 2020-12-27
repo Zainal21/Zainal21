@@ -23,7 +23,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - Email: [contact@zainalarifin](mailto:zainalarifin080718@gmail.com)
 - LinkedIn: [Muhamad-Zainal-Arifin](https://www.linkedin.com/in/muhammad-zainal-arifin-3092a1198/)
 - Instagram: [@Zainal_256bit](https://instagram.com/Zainal_256bit)
-- Twitter: [@penulisduduk](https://twitter.com/Penulisduduk)
 - Gitlab: [@gitlab.com/Zainal21](https://twitter.com/Penulisduduk)
+- Twitter: [@penulisduduk](https://twitter.com/Penulisduduk)
 
 ---
