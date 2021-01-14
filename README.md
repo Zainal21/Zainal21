@@ -11,7 +11,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
  📚 Currently Learning:
 - Node JS Environment
 - Competitive Programming
-- ExpressJS, Laravel, Backend Development
+- ExpressJS, Laravel for Backend Development
 - Microservice Architecture
 - VueJS, NuxtJS for Frontend Development
 - Design Pattern
@@ -19,7 +19,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - Unit Testing 
 
 🚀 How to reach me:
-- Web: [https://penulisdudukdev.xyz/](https://penulisdudukdev.xyz//)
+- Web: [https://penulisdudukdev.xyz/](https://muhammadzaindev.vercel.app)
 - Email: [contact@zainalarifin](mailto:zainalarifin080718@gmail.com)
 - LinkedIn: [Muhamad-Zainal-Arifin](https://www.linkedin.com/in/muhammad-zainal-arifin-3092a1198/)
 - Instagram: [@Zainal_256bit](https://instagram.com/Zainal_256bit)
