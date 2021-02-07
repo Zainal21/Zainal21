@@ -19,9 +19,9 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - Unit Testing 
 
 🚀 How to reach me:
-- Web: [https://penulisdudukdev.xyz/](https://muhammadzaindev.vercel.app)
+- Web: [https://muhammadzaindev.vercel.app](https://muhammadzaindev.vercel.app)
 - Email: [contact@zainalarifin](mailto:zainalarifin080718@gmail.com)
-- LinkedIn: [Muhamad-Zainal-Arifin](https://www.linkedin.com/in/muhammad-zainal-arifin-3092a1198/)
+- LinkedIn: [Muhamad-Zainal-Arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
 - Instagram: [@Zainal_256bit](https://instagram.com/Zainal_256bit)
 - Gitlab: [@gitlab.com/Zainal21](https://twitter.com/Penulisduduk)
 - Twitter: [@penulisduduk](https://twitter.com/Penulisduduk)
