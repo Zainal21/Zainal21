@@ -12,7 +12,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - Node JS Environment
 - Competitive Programming
 - ExpressJS, Laravel for Backend Development
-- Microservice Architecture
+- Microservice Architecture for Backend development
 - VueJS, NuxtJS for Frontend Development
 - Design Pattern
 - SQL DATABASE & NoSQL DATABASE
