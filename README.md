@@ -20,10 +20,10 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 
 🚀 How to reach me:
 - Web: [https://muhammadzaindev.vercel.app](https://muhammadzaindev.vercel.app)
-- Email: [contact@zainalarifin](mailto:zainalarifin080718@gmail.com)
+- Email: [zainalarifin080718@gmail.com](mailto:zainalarifin080718@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-zainal-arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
 - Instagram: [https://instagram.com/Zainal_256bit](https://instagram.com/Zainal_256bit)
-- Gitlab: [@gitlab.com/Zainal21](https://gitlab.com/Zainal21)
-- Twitter: [@penulisduduk](https://twitter.com/Penulisduduk)
+- Gitlab: [https://gitlab.com/Zainal21](https://gitlab.com/Zainal21)
+- Twitter: [https://twitter.com/Penulisduduk](https://twitter.com/Penulisduduk)
 
 ---
