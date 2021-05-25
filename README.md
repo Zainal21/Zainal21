@@ -9,7 +9,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 
 
  📚 Currently Learning:
-- Node JS Environment
+- NodeJS Environment
 - Competitive Programming
 - ExpressJS, Laravel for Backend Development
 - Microservice Architecture for Backend development
