@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🧑🏻‍💻
 
 I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocational Student who is interested in the world of technology, especially in the world of web programming, and a web programmer who is quite experienced in creating, developing web-based applications 
 
@@ -18,7 +18,7 @@ I’m currently a Software Engineering student at VHS 2 Karanganyar, a Vocationa
 - SQL DATABASE & NoSQL DATABASE
 - Unit Testing 
 
-🚀 How to reach me:
+📫 How to reach me:
 - Web: [https://muhammadzaindev.vercel.app](https://muhammadzaindev.vercel.app)
 - Email: [zainalarifin080718@gmail.com](mailto:zainalarifin080718@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-zainal-arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
