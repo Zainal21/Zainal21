@@ -1,3 +1,6 @@
+![My card name](https://cardivo.vercel.app/api?name=Muhamad%20Zainal%20Arifin&description=19%20y.o%20Software%20Enginer&image=https://avatars.githubusercontent.com/u/48118434?s=400&u=5165242cd60eaff43722ff4846b8d76efdf43f2d&v=4backgroundColor=%23e64a19&linkedin=Muhamad%20Zainal%20Arifin%20&github=Zainal21&twitter=penulisduduk&pattern=hideout&colorPattern=%23eaeaea)
+
+
 ### Hi there 👋
 
 I graduated from VHS 2 Karanganyar in 2021 as a Software Engineering student, an interested in the world of technology, especially in the world of web programming.
