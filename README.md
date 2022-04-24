@@ -12,7 +12,6 @@ I graduated from VHS 2 Karanganyar in 2021 as a Software Engineering student, Cu
 - Android Development using Kotlin
 - NodeJS and Deno Environment
 - Competitive Programming
-- ExpressJS for Backend Development
 - VueJS, NuxtJS for Frontend Development
 - Design Pattern
 - SQL DATABASE & NoSQL DATABASE
