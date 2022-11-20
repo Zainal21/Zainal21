@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from VHS 2 Karanganyar in 2021 as a Software Engineering student, Currently work as a Software Engineer, an interested in the world of technology, especially in the world of web and mobile programming.
+I graduated from SMKN 2 Karanganyar in 2021 as a Software Engineering student, Currently work as a Software Engineer in Jakarta, an interested in the world of technology, especially in the world of web and mobile programming.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainal21&show_icons=true&theme=dracula" alt="Zainal21 Github Stats">
@@ -10,10 +10,7 @@ I graduated from VHS 2 Karanganyar in 2021 as a Software Engineering student, Cu
 
  📚 Currently Learning:
 - Android Development using Kotlin
-- NodeJS and Deno Environment
 - Competitive Programming
-- VueJS, NuxtJS for Frontend Development
-- Design Pattern
 - SQL DATABASE & NoSQL DATABASE
 - Unit Testing 
 
