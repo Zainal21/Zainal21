@@ -15,7 +15,7 @@ I graduated from SMKN 2 Karanganyar in 2021 as a Software Engineering student, C
 - Unit Testing 
 
 📫 How to reach me:
-- Web: [https://muhammadzaindev.vercel.app](https://muhammadzaindev.vercel.app)
+- Web: [https://muhammadzain.site/](https://muhammadzain.site/)
 - Email: [zainalarifin080718@gmail.com](mailto:muhamadzaindev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-zainal-arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
 - Instagram: [https://instagram.com/muhammadzain.tsx](https://instagram.com/muhammadzain.tsx)
