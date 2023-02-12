@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-![Profile views](https://gpvc.arturio.dev/Zainal21)
-
 I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently work as a Software Engineer in Jakarta, an interested in the world of technology, especially in the world of web and mobile programming.
 
 <div align="center">
