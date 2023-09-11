@@ -8,7 +8,6 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 
  📚 Currently Learning:
 - Backend Development
-- Android Development using Kotlin
 - Competitive Programming
 - Unit Testing 
 
