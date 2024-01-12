@@ -8,12 +8,13 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 
  📚 Currently Learning:
 - Backend Development
+- DevOps
 - Competitive Programming
 - Unit Testing 
 
 📫 How to reach me:
-- Web: [https://muhammadzain.site/](https://muhammadzain.site/)
-- Email: [zainalarifin080718@gmail.com](mailto:muhamadzaindev@gmail.com)
+- Web: [https://muhammadzain.site/](https://muhamadzain.me)
+- Email: [muhamadzaindev@gmail.com](mailto:muhamadzaindev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-zainal-arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
 - Instagram: [https://instagram.com/hi.muhammadzain](https://instagram.com/hi.muhammadzain)
 - Gitlab: [https://gitlab.com/Zainal21](https://gitlab.com/Zainal21)
