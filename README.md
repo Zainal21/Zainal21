@@ -10,7 +10,14 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 - Backend Development
 - DevOps
 - Competitive Programming
-- Unit Testing 
+- Unit Testing
+
+🛠 Tech Stack
+- **Front-end**: React | Next.js | TailwindCSS, BootstrapCSS, VueJS
+- **Back-End**: JavaScript | TypeScript | Node.js | Express | NestJS | Laravel | Golang | GO Fiber Framework | PostgreSQL | MySQL | MongoDB | ElasticSearch | RabbitMQ
+- **Devops**: Docker | Docker Swarm | Grafana | Jeager & Open Telemetry | Graylog | BugSnag
+- **Testing**: Pest, PHPUnit
+
 
 📫 How to reach me:
 - Web: [https://muhammadzain.site/](https://muhamadzain.me)
