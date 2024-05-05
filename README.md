@@ -14,8 +14,8 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 
 🛠 Tech Stack
 - **Front-End**: React | Next.js | TailwindCSS, BootstrapCSS, VueJS
-- **Back-End**: JavaScript | TypeScript | Node.js | Express | NestJS | Laravel | Golang | GO Fiber Framework | PostgreSQL | MySQL | MongoDB | ElasticSearch | RabbitMQ
-- **Devops**: Docker | Docker Swarm | Grafana | Jeager & Open Telemetry | Graylog | BugSnag | Github Actions | Gitlab CI
+- **Back-End**: Node.js | Express | NestJS | Laravel | Golang | GO Fiber Framework | PostgreSQL | MySQL | MongoDB | ElasticSearch | RabbitMQ
+- **Devops**: Docker | Docker Swarm | Grafana | Jeager & Open Telemetry | Graylog | BugSnag | Github Actions | Gitlab CI | Sentry
 - **Testing**: Pest, PHPUnit
 
 
