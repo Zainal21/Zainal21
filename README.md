@@ -8,15 +8,15 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 
  📚 Currently Learning:
 - Backend Development
-- DevOps
+- DevOps (K8s, Terraform & Ansible)
 - Competitive Programming
 - Unit Testing
 
 🛠 Tech Stack
-- **Front-End**: React, Next.js, TailwindCSS, BootstrapCSS, VueJS
-- **Back-End**: Node.js, Express, NestJS, Laravel, Codeigniter, GO Fiber Framework
+- **Front-End**: React, Next.js, VueJS, TailwindCSS, BootstrapCSS
+- **Back-End**: Node.js, ExpressJS, NestJS, Laravel, Codeigniter3, GO Fiber Framework
 - **Databases**: PostgreSQL, MySQL, Redis, MongoDB, ElasticSearch
-- **Devops**: Docker, Docker Swarm, Grafana, Jeager & Open Telemetry, Graylog, BugSnag, Github Actions, Gitlab CI, Sentry
+- **DevOps**: Docker, Docker Swarm, Grafana, Jeager & Open Telemetry, Graylog, BugSnag, Github Actions, Gitlab CI, Sentry
 - **Testing**: Pest, PHPUnit
 - **Other Tools**: RabbitMQ, gRPC, etc
 
@@ -25,7 +25,7 @@ I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently
 - Web: [https://muhammadzain.site/](https://muhamadzain.me)
 - Email: [muhamadzaindev@gmail.com](mailto:muhamadzaindev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-zainal-arifin](https://www.linkedin.com/in/muhammad-zainal-arifin)
-- Instagram: [https://instagram.com/hi.muhammadzain](https://instagram.com/hi.muhammadzain)
+- Instagram: [https://www.instagram.com/muhamadzain.tsx](https://www.instagram.com/muhamadzain.tsx)
 - Gitlab: [https://gitlab.com/Zainal21](https://gitlab.com/Zainal21)
 - Twitter: [https://twitter.com/Penulisduduk](https://twitter.com/Penulisduduk)
 
