@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently work as a Software Engineer in Jakarta, an interested in the world of technology, especially in the world of web and mobile programming.
+I graduated from SMKN 2 Karanganyar as a Software Engineering student, Currently work as a Software Engineer in Jakarta, an interested in the world of technology, especially in the world of web and mobile programming & DevOps.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainal21&show_icons=true&theme=dracula" alt="Zainal21 Github Stats">
