@@ -21,7 +21,7 @@ I'm dedicated to learning, building, and contributing to the tech community. Let
 - **Front-End**: React.js, Next.js, VueJS, TailwindCSS, BootstrapCSS
 - **Back-End**: Node.js, Express.js, Nest.js, Laravel, Codeigniter3, Go (Fiber, Echo)
 - **Databases**: PostgreSQL, MySQL, Redis, MongoDB, ElasticSearch
-- **DevOps & Monitoring Tools**: Docker, Docker Swarm, Loki, Grafana, Jeager, Zinkin, Open Telemetry, Graylog, BugSnag, Sentry, Github Actions, Gitlab CI, Red Hat OpenShift
+- **DevOps & Monitoring Tools**: Docker, Docker Swarm, Loki, Grafana, Jeager, Zipkin, Open Telemetry, Graylog, BugSnag, Sentry, Github Actions, Gitlab CI, Red Hat OpenShift
 - **Could**: Alibaba, Google Cloud Platform, Digital Ocean, some Cloud provider in Indonesia etc
 - **Testing**: Pest (PHP), Jest (JavaScript)
 - **Others**: Message Broker (RabbitMQ), gRPC, etc
