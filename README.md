@@ -4,7 +4,7 @@
 
 💻 My interests and expertise lie in:
 
-- Web & Mobile Development
+- Web Development
 - DevOps & Site Reliability Engineering (SRE)
 
 I'm dedicated to learning, building, and contributing to the tech community. Let's innovate together! 🚀
