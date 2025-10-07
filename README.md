@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm a 22-year-old Indonesian Software Engineer 🇮🇩 with a passion for exploring technology and creating impactful software solutions. With over 4+ years of programming experience, I graduated from SMKN 2 Karanganyar in Software Engineering and am currently working as a Software Engineer in Jakarta.
+👋 Hi there! I'm a 23-year-old Indonesian Software Engineer 🇮🇩 with a passion for exploring technology and creating impactful software solutions. With over 5+ years of programming experience, I graduated from SMKN 2 Karanganyar in Software Engineering and am currently working as a Software Engineer in Jakarta.
 
 💻 My interests and expertise lie in:
 
