@@ -9,10 +9,6 @@
 
 I'm dedicated to learning, building, and contributing to the tech community. Let's innovate together! 🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainal21&show_icons=true&theme=dracula" alt="Zainal21 Github Stats">
-</div>
-
  📚 Currently Learning:
 - Backend Development (Go)
 - DevOps (K8s/Kubernetes, Terraform, Ansible & Cloud Design Pattern)
